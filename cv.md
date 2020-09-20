@@ -1,4 +1,4 @@
-#Alexey Poloz
+Alexey Poloz
 
 mail: pol2shkan4ik@gmail.com
 
