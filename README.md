@@ -1,1 +1,1 @@
-https://zimkazimka.github.io/rsschool-cv/cv
+https://zimkazimka.github.io/rsschool-cv/cv.md
